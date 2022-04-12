@@ -69,7 +69,24 @@ ___
 `cat filename.txt | more` - перегляд великих файлів  
 --- також командою `cat` можна обєднувати два файли  
 
-   
+## [<img src="https://img.shields.io/badge/⁘-Lesson%203-green" height="30" />](https://github.com/qnightmare/today-i-lerned/edit/main/README.md#lesson-2) [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&background=3499D4&vCenter=true&width=750&height=30&lines=+~+HTML+base+command)](https://git.io/typing-svg)
+### *Мінімальний набір плагінів VS Code*  
+  - Auto Close Tag  
+  - Auto Rename Tag  
+  - EditorConfig for VS Code  
+  - Highlight Matching Tag  
+  - HTML Preview  
+  - Live Server  
+
+
+
+  
+  
+  
+  
+## [<img src="https://img.shields.io/badge/⁘-Lesson%204-green" height="30" />](https://github.com/qnightmare/today-i-lerned/edit/main/README.md#lesson-2) [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&background=3499D4&vCenter=true&width=750&height=30&lines=+~+Main+terminal+command,+start+github)](https://git.io/typing-svg)
+### *CSS*  
+  
   
   
 ```HTML
