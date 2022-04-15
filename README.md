@@ -121,7 +121,11 @@ ___
   
 ## [<img src="https://img.shields.io/badge/⁘-Lesson%204-green" height="30" />](https://github.com/qnightmare/today-i-lerned/edit/main/README.md#lesson-2) [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&background=3499D4&vCenter=true&width=750&height=30&lines=+~+Main+terminal+command,+start+github)](https://git.io/typing-svg)
 ### *CSS*  
-  
+  ul {
+    -webkit-column-count: 3;
+    -moz-column-count: 3;
+    column-count: 3;
+}
   
   
 ```HTML
