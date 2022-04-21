@@ -126,7 +126,8 @@ ___
     -moz-column-count: 3;
     column-count: 3;
 }
-  
+    
+    `transition: <property> <duration> <timing-function> <delay>;`
   
 ```HTML
 <p> fff</p> 
